@@ -4,3 +4,4 @@ This is an image classification project using a deep learning model in Python. F
 
 You can find the training and testing dataset images [here](https://www.kaggle.com/datasets/deepcontractor/is-that-santa-image-classification)
 
+![santa](https://github.com/marlenezw/is-santa-real-deep-learning-project/blob/main/3.Santa.jpg)
